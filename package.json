@@ -1,0 +1,29 @@
+{
+  "name": "just-render-props",
+  "version": "1.0.0",
+  "description": "Simplify conditional usage of render props",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dimitarnestorov/just-render-props.git"
+  },
+  "keywords": [
+    "render",
+    "react",
+    "props",
+    "just"
+  ],
+  "author": "Dimitar Nestorov <opensource@dimitarnestorov.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/dimitarnestorov/just-render-props/issues"
+  },
+  "homepage": "https://github.com/dimitarnestorov/just-render-props#readme",
+  "dependencies": {
+    "prop-types": "^15.5.7"
+  },
+  "devDependencies": {
+    "eslint": "^4.19.1",
+    "eslint-config-dimitarnestorov": "^1.1.1"
+  }
+}

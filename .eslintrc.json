@@ -1,0 +1,10 @@
+{
+	"env": {
+		"commonjs": true,
+		"es6": true
+	},
+	"extends": "dimitarnestorov",
+	"rules": {
+		"eol-last": ["error", "always"]
+	}
+}
