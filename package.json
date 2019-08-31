@@ -3,6 +3,10 @@
   "version": "1.0.0",
   "description": "Simplify conditional usage of render props",
   "main": "index.js",
+  "scripts": {
+    "lint": "eslint .",
+    "test": "npm run lint"
+  },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/dimitarnestorov/just-render-props.git"

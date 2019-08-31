@@ -1,2 +1,4 @@
 yarn.lock
 .eslintrc.json
+.eslintignore
+
